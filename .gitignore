@@ -15,6 +15,9 @@ uv.lock
 deploying-ai-env
 .venv_deployingAI
 
+## Pickle objects
+*.pkl
+
 # Secrets
 *.secrets
 *.secrets_*
